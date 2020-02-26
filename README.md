@@ -1,7 +1,9 @@
 # Chao Bear Apparel - Desktop & Mobile App (Front-End)
 Chao Bear Apparel is a sports brand that prints products on demand. I used this code for https://chaobear.com, https://wonderland.chaobear.com and the Rakuten stores: https://japan.kassotis.com, https://korea.kassotis.com, https://india.kassotis.com. It's a practical theme if you're looking to turn your blog into an eshop.
 
-This project is closely linked to the official Chao Bear app for Google Play. Thanks to its responsiveness it acts as a perfect UI for the mobile app and that works by building the app as a browser that automatically redirects to the website's URL (chaobear.com). You can download the app on your Android device for free and see how it works first hand [HERE](https://play.google.com/store/apps/details?id=com.coderscage.chaobear).
+This project is closely linked to the official Chao Bear app for Google Play. Thanks to its responsiveness it acts as a perfect UI for the mobile app and that works by building the app as a browser that automatically redirects to the website's URL. You can download the app on your Android device for free and see how it works first hand [HERE](https://play.google.com/store/apps/details?id=com.coderscage.chaobear).
+
+Built within the code is a customer support chatbot named Björn but its code isn't included here because it's proprietary and not subject to the MIT License (its code goes at the bottom right before </body> so feel free to add your own chatbot). The bot is made using Facebook Messenger and you can visit and talk to it although it's only programmed to talk about store business and isn't trying to pass the Turing Test. The Messenger link is [HERE](https://www.messenger.com/t/ChaoBearApparel)
 
 ## Getting Started
 
