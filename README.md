@@ -1,5 +1,5 @@
 # Chao Bear Apparel
-Chao Bear Apparel is a sports brand that prints products on demand.
+Chao Bear Apparel is a sports brand that prints products on demand. I used this code for https://chaobear.com, https://wonderland.chaobear.com and the Rakuten stores: https://japan.kassotis.com, https://korea.kassotis.com, https://india.kassotis.com.
 
 ## Getting Started
 
