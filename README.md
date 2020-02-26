@@ -3,7 +3,7 @@ Chao Bear Apparel is a sports brand that prints products on demand. I used this 
 
 This project is closely linked to the official Chao Bear app for Google Play. Thanks to its responsiveness it acts as a perfect UI for the mobile app and that works by building the app as a browser that automatically redirects to the website's URL. You can download the app on your Android device for free and see how it works first hand [HERE](https://play.google.com/store/apps/details?id=com.coderscage.chaobear).
 
-Built within the code is a customer support chatbot named Björn but its code isn't included here because it's proprietary and not subject to the MIT License (its code goes at the bottom right before the closing body tag so feel free to add your own chatbot there). The bot is made using Facebook Messenger and you can visit and talk to it although it's only programmed to talk about store business and isn't trying to pass the Turing Test. The Messenger link is [HERE](https://www.messenger.com/t/ChaoBearApparel)
+Built within the code is a customer support chatbot named Björn but its code isn't included here because it's proprietary and not subject to the MIT License (its code goes at the bottom right before the closing body tag so feel free to add your own chatbot there). The bot is made using Facebook Messenger and you can visit and talk to it although it's only programmed to talk about store business and isn't trying to pass the Turing Test. The Messenger link is [HERE](https://www.messenger.com/t/ChaoBearApparel).
 
 ## Getting Started
 
